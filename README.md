@@ -11,7 +11,7 @@ Note: a data folder can be used for test data for the scrape program.
 | --- | --- | --- | --- |
 | Texas	| 16622	| done	| NAD27 |
 | Oklahoma	| 4143	| done	| NAD27 |
-| New Mexico	| 2306	| TBD	|
+| New Mexico	| 2306	| done	| NAD83 |
 | North Dakota	| 201	| TBD	|
 | Utah	| 105	| TBD	||
 | Louisiana	| 70	| TBD	|
