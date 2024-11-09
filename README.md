@@ -7,6 +7,11 @@ Note: Large data scrapes should go to a folder named "dump" and will not be incl
 
 Note: a data folder can be used for test data for the scrape program.
 
+State GIS well data can be found from these helpfule links
+* https://www.usgs.gov/programs/core-research-center/links-state-well-data
+  
+## States:
+
 | State	| Well Count	| Phases	| Datum |
 | --- | --- | --- | --- |
 | Texas	| 16622	| source	| NAD27 |
