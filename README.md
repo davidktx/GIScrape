@@ -8,6 +8,7 @@ Note: Large data scrapes should go to a folder named "dump" and will not be incl
 Note: a data folder can be used for test data for the scrape program.
 
 | State	| Well Count	| Phases	| Datum |
+| --- | --- | --- | --- |
 | Texas	| 16622	| done	| NAD27 |
 | Oklahoma	| 4143	| done	| NAD27 |
 | New Mexico	| 2306	| TBD	|
