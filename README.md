@@ -17,7 +17,7 @@ State GIS well data can be found from these helpfule links
 | Texas	| 16622	| source	| NAD27 |
 | Oklahoma	| 4143	| source	| NAD27 |
 | New Mexico	| 2306	| source	| NAD83 |
-| North Dakota	| 201	| TBD	|
+| North Dakota	| 201	| source	| NAD83 |
 | Utah	| 105	| TBD	||
 | Louisiana	| 70	| TBD	|
 | Colorado	| 64 ||
