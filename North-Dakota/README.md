@@ -16,3 +16,6 @@ look for the filename "OGD Wells.zip" and download. (https://gis.dmr.nd.gov/gisd
 Extract the folder.
 
 view the data in whatever provided form suits you best.
+
+Data is compressed in NAD83 with ESRI PRJ file
+

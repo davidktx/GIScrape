@@ -12,32 +12,32 @@ State GIS well data can be found from these helpfule links
   
 ## States:
 
-| State	| Well Count	| Phases	| Datum |
+| State	| Well Count	| Phases	| Datum |  API   |
 | --- | --- | --- | --- |
-| Texas	| 16622	| source	| NAD27 |
-| Oklahoma	| 4143	| source	| NAD27 |
-| New Mexico	| 2306	| source	| NAD83 |
-| North Dakota	| 201	| source	| NAD83 |
-| Utah	| 105	| source	| unknown   |
-| Louisiana	| 70	| TBD	|
-| Colorado	| 64 ||
-| Nebraska	| 59	||	
-| Mississippi	| 46	||	
-| Kansas	| 46		||
-| Arkansas	| 42		||
-| Illinois	| 40		||
-| Alabama	| 22		||
-| Michigan	| 20		||
-| South Dakota	| 8		||
-| Virginia	| 6		||
-| Indiana	| 6		||
-| Delaware	| 4		||
-| Montana	| 3		||
-| Maine	| 3		||
-| Washington	| 2	||	
-| Maryland	| 2		||
-| West Virginia	| 1	||	
-| Rhode Island	| 1		||
-| Federal	| 1		||
-| California	| 1 ||		
+| Texas	| 16622	| source	| NAD27 |       |
+| Oklahoma	| 4143	| source	| NAD27 |       |
+| New Mexico	| 2306	| source	| NAD83 |       |
+| North Dakota	| 201	| source	| NAD83 |       |
+| Utah	| 105	| source	| 4326   |  YES   |
+| Louisiana	| 70	| TBD	|       |
+| Colorado	| 64 |||
+| Nebraska	| 59	|||
+| Mississippi	| 46	|||
+| Kansas	| 46		|||
+| Arkansas	| 42		|||
+| Illinois	| 40		|||
+| Alabama	| 22		|||
+| Michigan	| 20		|||
+| South Dakota	| 8		|||
+| Virginia	| 6		|||
+| Indiana	| 6		|||
+| Delaware	| 4		|||
+| Montana	| 3		|||
+| Maine	| 3		|||
+| Washington	| 2	|||	
+| Maryland	| 2		|||
+| West Virginia	| 1	|||	
+| Rhode Island	| 1		|||
+| Federal	| 1		|||
+| California	| 1 |||		
 
