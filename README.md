@@ -20,7 +20,7 @@ State GIS well data can be found from these helpfule links
 | North Dakota	| 201	| source	| NAD83 |       |
 | Utah	| 105	| source	| 4326   |  YES   |
 | Louisiana	| 70	| TBD	|       |
-| Colorado	| 64 |||
+| Colorado	| 64 |  source  | unknown |  YES  |
 | Nebraska	| 59	|||
 | Mississippi	| 46	|||
 | Kansas	| 46		|||
