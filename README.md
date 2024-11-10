@@ -41,3 +41,8 @@ State GIS well data can be found from these helpfule links
 | Federal	| 1		|||
 | California	| 1 |||		
 
+### Datum Types:
+
+
+**EPSG:4326**  
+    Also known as WGS84, this coordinate system is used by Google Earth and other GIS data providers. It's based on WGS84's ellipsoid and represents the Earth as a three-dimensional shape.
