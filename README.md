@@ -15,7 +15,7 @@ State GIS well data can be found from these helpfule links
 | State	| Well Count	| Phases	| Datum |  API   |
 | --- | --- | --- | --- | --- |
 | Texas	| 16622	| source	| NAD27 |   YES    |
-| Oklahoma	| 4143	| source	| NAD27 |       |
+| Oklahoma	| 4143	| source	| NAD27 |    YES   |
 | New Mexico	| 2306	| source	| NAD83 |       |
 | North Dakota	| 201	| source	| NAD83 |       |
 | Utah	| 105	| source	| 4326   |  YES   |
