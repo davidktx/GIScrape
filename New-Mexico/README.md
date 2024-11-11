@@ -2,21 +2,20 @@
 
 ## State Data API
 
-https://wwwapps.emnrd.nm.gov/OCD/OCDPermitting/default.aspx
+https://ocd-hub-nm-emnrd.hub.arcgis.com/
 
-Upper Right : Operator Data -\> Well Search
+Scroll down to the section, "Oil Conservation Division (OCD) Geospatial Applications"
 
-Goes to: https://wwwapps.emnrd.nm.gov/OCD/OCDPermitting/Data/Wells.aspx
+Under "Oil and Gas Wells", click on "Download Wells"
 
-Select "Report Options" : Report Format : Expanded Allows you to get GIS data
+To get to APIs, on the bottom of the frame click on "I Want to use this", and then click on "View API Resources" 
 
-Select "Continue"
+Pick the methiod to acquire the data:
+* GeoJSON
+* GeoService
+* API Explorer.
 
-Displays: Well Search Expanded (72,906 records returned)
-
-Select "Export to Excel" to download .xls file.
-
-API: https://ocd-hub-nm-emnrd.hub.arcgis.com/datasets/dd971b8e25c54d1a8ab7c549244cf3cc_0/api
+API Explorer: Click on View API Resources, Try out the explorer"
 
 Datum is in NAD83 format and will need to be converted.
 
@@ -24,7 +23,7 @@ Datum is in NAD83 format and will need to be converted.
 
 https://wwwapps.emnrd.nm.gov/OCD/OCDPermitting/default.aspx
 
-Upper Right : Operator Data -\> Well Search
+Upper Right : Operator Data -> Well Information -> Well Search
 
 Goes to: https://wwwapps.emnrd.nm.gov/OCD/OCDPermitting/Data/Wells.aspx
 
