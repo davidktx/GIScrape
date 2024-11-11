@@ -1,10 +1,12 @@
-# New Mexico
+# GIS data for New Mexico
 
-## How did I get here
+## State Data location
+
 https://wwwapps.emnrd.nm.gov/OCD/OCDPermitting/default.aspx
 
 Upper Right : Operator Data -> Well Search
-https://wwwapps.emnrd.nm.gov/OCD/OCDPermitting/Data/Wells.aspx
+
+Goes to: https://wwwapps.emnrd.nm.gov/OCD/OCDPermitting/Data/Wells.aspx
 
 Select "Report Options" : Report Format : Expanded
 Allows you to get GIS data
@@ -16,3 +18,4 @@ Well Search Expanded (72,906 records returned)
 
 Select "Export to Excel" to download .xls file.
 
+Datum is in NAD83 format and will need to be converted.
