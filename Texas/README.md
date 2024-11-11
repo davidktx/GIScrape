@@ -12,11 +12,14 @@ View the Digital Map Information GIS Data [Frequently Asked Questions](https://w
 
 Geographic Coordinates; Latitude/Longitude Decimal Degrees, NAD 27
 
+# State Data API
+
+API: https://gis-txdot.opendata.arcgis.com/datasets/TXDOT::statewide-surface-wells/api
+
+
 # State Data Location
 
 Main Download Page: [Data Sets Available for Download](https://www.rrc.state.tx.us/resource-center/research/data-sets-available-for-download/)
-
-API: https://gis-txdot.opendata.arcgis.com/datasets/TXDOT::statewide-surface-wells/api
 
 ## Drilling Permit Data
 
