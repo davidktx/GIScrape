@@ -15,7 +15,7 @@ Pick the methiod to acquire the data:
 * GeoService
 * API Explorer.
 
-API Explorer: https://gisdata-occokc.opendata.arcgis.com/datasets/4c8b4656560f481997011154dc999202_220/api
+API Explorer: Click on View API Resources, Try out the explorer"
 
 ## State Data Location
 
