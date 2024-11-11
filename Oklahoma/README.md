@@ -4,23 +4,26 @@
 
 Go here: https://gisdata-occokc.opendata.arcgis.com/
 
-Click on: RBDMS Wells (first in list)
+Under the section "OCC DATA DOWNLOADS" Click on: RBDMS Wells (first in list)
 
 That will take you here (https://gisdata-occokc.opendata.arcgis.com/datasets/4c8b4656560f481997011154dc999202_220/explore)
 
-Click on download, and select the appropriate data type you want.
+To get to API, on the bottom of the frame click on "I Want to use this", and then click on "View API Resources" 
 
-To get to API, instead click on "I Want to use this" at the very bottom, and then click on "View API Resources" and then Open in API Explorer.
+Pick the methiod to acquire the data:
+* GeoJSON
+* GeoService
+* API Explorer.
 
-API: https://gisdata-occokc.opendata.arcgis.com/datasets/4c8b4656560f481997011154dc999202_220/api
+API Explorer: https://gisdata-occokc.opendata.arcgis.com/datasets/4c8b4656560f481997011154dc999202_220/api
 
 ## State Data Location
 
 Main Download Page: [Oil and Gas Data Files](https://oklahoma.gov/occ/divisions/oil-gas/oil-gas-data.html)
 
-API: https://gisdata-occokc.opendata.arcgis.com/datasets/4c8b4656560f481997011154dc999202_220/api
+Open the section "Oil and Gas Well Information (includes RBDMS Well Data)" to expose download links. 
 
-## Files to Import
+### Files to Import
 
 These files are in XLSX format.
 
