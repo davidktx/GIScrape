@@ -20,4 +20,6 @@ Well Search Expanded (72,906 records returned)
 
 Select "Export to Excel" to download .xls file.
 
+API: https://ocd-hub-nm-emnrd.hub.arcgis.com/datasets/dd971b8e25c54d1a8ab7c549244cf3cc_0/api
+
 Datum is in NAD83 format and will need to be converted.
