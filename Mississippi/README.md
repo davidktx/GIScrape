@@ -1,11 +1,9 @@
-GIS data for Mississippi
+# GIS data for _STATE_
 
-Add data here
 
-State Data API
 
-Add Data Here
+## State Data API
 
-State Data Location
 
-Add data here
+
+## State Data Location
